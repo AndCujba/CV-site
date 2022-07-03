@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Gantari', sans-serif;
+}
+
+h1{
+    margin-top: 0;
+    font-family: 'Dancing Script', cursive;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+   
+}
+
+img.photo{
+    width: 200px;
+    height: 200px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
